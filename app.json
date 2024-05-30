@@ -1,14 +1,14 @@
 { 
-  "name": "KING-MD",
-  "description": "A Whatsapp md bot built By Naveed to make experience better",
-  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
+  "name": "🎉👑DJ DELBOY ANIEY💻💐",
+  "description": "A Whatsapp md bot built By DJ DELBOY ANIEY to make experience better",
+  "logo": "https://telegram.org/dl",
   "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
-  "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+  "description": "👑🎉DJ DELBOY MD❄️🌸🔥",
+      "value": "👑🎉DJ DELBOY MD🔥🌸"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -16,39 +16,39 @@
       },
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
-    "required" :false,
-    "value": "false"
+    "required" :true,
+    "value": "true"
       },
     "HEROKU_API_KEY": {
-    "description": "Put HEROKU API KEY",
+    "description": "10",
      "required" :true
     },
   "HEROKU_APP_NAME": {
-    "description": "Put HEROKU APP NAME same as above.",
+    "description": "🎉❄️DJ DELBOY MD BOT 👑.",
      "required" :true
     },
    "THUMB_IMAGE": {
-    "description": "Put Your Image Url for bot logo",
-     "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
+    "description": "https://telegram.org/dl",
+     "value": ""https://telegram.org/dl
     },
     "ANTI_BAD_WORD": {
-    "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
+    "description": "bales,n'anga,supermarket,money,ring",
      "required" :false
     },
    "ANTILINK_VALUES": {
-    "description": "Put words for antilink",
+    "description": "Hey mwana weimbwa usaise link😂😂",
      "value": "chat.whatsapp.com",
-     "required" :false
+     "required" :true
      },
    "FAKE_COUNTRY_CODE": {
     "description": "Put the Country Code Name without +",
-     "value": "212",
+     "value": "254",
      "required" :false
     },
      "ANTILINK_ACTION": {
-    "description": "Put action for antilink",
+    "description": "warn/kick/delete ",
      "value": "remove",
-     "required" :false
+     "required" :true
     },
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
@@ -56,16 +56,16 @@
      "value": "false"
     },
     "CAPTION": {
-    "description": "© GENERATE BY KING MD",
+    "description": "© GENERATE BY DJ DELBOY ANIEY 💻🎉💐",
      "required"  :false
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
-     "required" :false,
+     "required" :true,
      "value": "true"
     },
     "BOT_NAME": {
-	    "description": "Choose your bot name",
+	    "description": "❄️💮D͜͡J͜͡ D͜͡E͜͡L͜͡B͜͡O͜͡Y͜͡ A͜͡N͜͡I͜͡E͜͡Y͜͡ M͜͡D͜͡ ☠☠☠🌿🍀",
 	    "required": "true",
 	    "value": "*KING-MD*"
 },
@@ -75,15 +75,15 @@
       "required" :false
     },
       "PREFIX": {
-  "description": "Enter your desired prefix for bot.",
+  "description": "powered by DJ Delboy aniey ❄️💮.",
       "value": "."
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxx"
+       "value": "254 773 440758"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "KING-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT05HWG9hc3ZmRHR4V2czZE5aWEg4WXdzcHRZdEtZSklxNTFha1U0OEoxMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiREQ3SjhCUUw2YWZ3Y2lrOXg1dkRRWTAyd21pc3g4cUxudE9yNmhVaE53QT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTRkFEQnIrWHliQ1JSSDZNazR5R2FkUUNrT0xUMTJUUmc1WFBKWFNSQkVZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJYN0JvU3lNd0h0bDJLd3JjalBzYjYwcXZPNHRNN3B2aEgvZlZKQ0tWS1JNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdDZVlsNDI1ZWJaTExzaFgwSU10cVlhek43NzgreE5OK2xwV2tkZWtiMGs9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1JcXJYdW1qVElpcTVJR3Y0VGdNRTU1eFlGcVV3ZXg0QnF6ajVjemo5MVU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUwvc1BkY3ZTS3VmbW81TmEwS1NKWE9hQlFNZXBLVjdncFJIQUhrZXFWcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEs5eCtybitOdElXWHJrcmszbkkrVTAvVXFiS2V4UGtyQ0FnN3QxT2owMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRvVkRtemdpTG1GdEFuTmMxaDVnSjZtYzF1K1VyZDhzNlhkK0xFQjk3dFYzN3NxbWwvWU9uQ0grMlBJQk12TkRIMitxNnZVdFlGSXBjckgzQlM0UmlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzgsImFkdlNlY3JldEtleSI6ImtHVjA5RFNvY0NMZ3hPNEhxQS9WN3BqZFE5Njd6RWp0bXl5MFNwbjFUWkE9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6ImZ5Ym5lNnlJUnU2YVI4WFhRMWRqU2ciLCJwaG9uZUlkIjoiN2M5YjU3ZjUtZmMwNS00Yzg5LThiMDItODAxZjkwMWJhOGQzIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlJ6ZHA4TkZwNmJGdWNRc1VQN0l3MUFkaWkxUT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJUZEpzSUp5a1FoU2k5cEoyajAvaHgrU3Jpbkk9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiMUpISlNBSzciLCJtZSI6eyJpZCI6IjI1NDc3MzQ0MDc1ODo1MEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTWkrazlNQ0VLQ0g0YklHR0FZZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiQnlBZXBsMEZsekxhNVc1UkpQcXlxUjdieTVwU3dURUhsWmVZTU81WGFnWT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiSmRzK2t3VGRXRWc0NHY5QkVsUnJOUGFxTGF5Sm5UNG54WXdTWW9TVk12SnFGczh3cTNxNE14aWk3RFUwL0kzY0xpc09LOTQrVGtxY3grdWtqQ3hHREE9PSIsImRldmljZVNpZ25hdHVyZSI6InFLSmtrbjB3dHExeGhKK212R1RoQ0ZsQTVjK2RacXAxTFlKNVJKSjVDbGROT1h2MXYwY0J3OFMrQmI5aHUvSjJhMTFlMlZiaUJ6aXRRYnVmcDh2cWhRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0NzczNDQwNzU4OjUwQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlFjZ0hxWmRCWmN5MnVWdVVTVDZzcWtlMjh1YVVzRXhCNVdYbUREdVYyb0cifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTcwNjA1MjV9"
   },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
@@ -118,11 +118,11 @@
     "value": "naveeddogar"
   },
   "PACK_NAME": {
-    "description": "PUT STICKER PACK NAME",
+    "description": "❄️💮D͜͡J͜͡ D͜͡E͜͡L͜͡B͜͡O͜͡Y͜͡ A͜͡N͜͡I͜͡E͜͡Y͜͡ M͜͡D͜͡ ☠☠☠🌿🍀",
     "value": "king-mdbot"
   },
   "heroku": {
-    "description": "Weather it is on heroku or not",
+    "description": "❄️💮D͜͡J͜͡ D͜͡E͜͡L͜͡B͜͡O͜͡Y͜͡ A͜͡N͜͡I͜͡E͜͡Y͜͡ M͜͡D͜͡ ☠☠☠🌿🍀",
      "value": "true",
      "required": false   
   }
